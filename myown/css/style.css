@@ -1,0 +1,16 @@
+.title{
+    font-size: 30px;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+.titlevaz{
+    font-size: 30px;
+    color: maroon;
+}
+.text{
+    font-size: 27px;
+}
